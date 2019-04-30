@@ -1,0 +1,46 @@
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\CryptoStats\CryptoStats\obj\Debug\CryptoStats.csprojResolveAssemblyReference.cache
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\CryptoStats\CryptoStats\obj\Debug\CryptoStats.CryptoStatsMain.resources
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\CryptoStats\CryptoStats\obj\Debug\CryptoStats.Properties.Resources.resources
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\CryptoStats\CryptoStats\obj\Debug\CryptoStats.csproj.GenerateResource.Cache
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\CryptoStats\CryptoStats\bin\Debug\CryptoStats.exe.config
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\CryptoStats\CryptoStats\bin\Debug\CryptoStats.exe
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\CryptoStats\CryptoStats\bin\Debug\CryptoStats.pdb
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\CryptoStats\CryptoStats\obj\Debug\CryptoStats.exe
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\CryptoStats\CryptoStats\obj\Debug\CryptoStats.pdb
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\CryptoStats\CryptoStats\bin\Debug\Newtonsoft.Json.dll
+C:\Users\r00tboy\Documents\Visual Studio 2015\Projects\CryptoStats\CryptoStats\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\CryptoStats\CryptoStats\bin\Debug\CryptoStats.exe.config
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\CryptoStats\CryptoStats\bin\Debug\CryptoStats.exe
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\CryptoStats\CryptoStats\bin\Debug\CryptoStats.pdb
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\CryptoStats\CryptoStats\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\CryptoStats\CryptoStats\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\CryptoStats\CryptoStats\obj\Debug\CryptoStats.CryptoStatsMain.resources
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\CryptoStats\CryptoStats\obj\Debug\CryptoStats.Properties.Resources.resources
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\CryptoStats\CryptoStats\obj\Debug\CryptoStats.csproj.GenerateResource.Cache
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\CryptoStats\CryptoStats\obj\Debug\CryptoStats.exe
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\CryptoStats\CryptoStats\obj\Debug\CryptoStats.pdb
+C:\Users\sjaskiewicz\Documents\Visual Studio 2015\Projects\CryptoStats\CryptoStats\obj\Debug\CryptoStats.csprojResolveAssemblyReference.cache
+C:\Users\sjaskiewicz\source\repos\CryptoStats\CryptoStats\bin\Debug\CryptoStats.exe.config
+C:\Users\sjaskiewicz\source\repos\CryptoStats\CryptoStats\bin\Debug\CryptoStats.exe
+C:\Users\sjaskiewicz\source\repos\CryptoStats\CryptoStats\bin\Debug\CryptoStats.pdb
+C:\Users\sjaskiewicz\source\repos\CryptoStats\CryptoStats\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sjaskiewicz\source\repos\CryptoStats\CryptoStats\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sjaskiewicz\source\repos\CryptoStats\CryptoStats\obj\Debug\CryptoStats.csprojResolveAssemblyReference.cache
+C:\Users\sjaskiewicz\source\repos\CryptoStats\CryptoStats\obj\Debug\CryptoStats.CryptoStatsMain.resources
+C:\Users\sjaskiewicz\source\repos\CryptoStats\CryptoStats\obj\Debug\CryptoStats.Properties.Resources.resources
+C:\Users\sjaskiewicz\source\repos\CryptoStats\CryptoStats\obj\Debug\CryptoStats.csproj.GenerateResource.Cache
+C:\Users\sjaskiewicz\source\repos\CryptoStats\CryptoStats\obj\Debug\CryptoStats.csproj.CoreCompileInputs.cache
+C:\Users\sjaskiewicz\source\repos\CryptoStats\CryptoStats\obj\Debug\CryptoStats.exe
+C:\Users\sjaskiewicz\source\repos\CryptoStats\CryptoStats\obj\Debug\CryptoStats.pdb
+C:\Users\r00tboy\Source\Repos\MojeProjekty\CryptoStats\CryptoStats\obj\Debug\CryptoStats.csprojResolveAssemblyReference.cache
+C:\Users\r00tboy\Source\Repos\MojeProjekty\CryptoStats\CryptoStats\obj\Debug\CryptoStats.CryptoStatsMain.resources
+C:\Users\r00tboy\Source\Repos\MojeProjekty\CryptoStats\CryptoStats\obj\Debug\CryptoStats.Properties.Resources.resources
+C:\Users\r00tboy\Source\Repos\MojeProjekty\CryptoStats\CryptoStats\obj\Debug\CryptoStats.csproj.GenerateResource.Cache
+C:\Users\r00tboy\Source\Repos\MojeProjekty\CryptoStats\CryptoStats\obj\Debug\CryptoStats.csproj.CoreCompileInputs.cache
+C:\Users\r00tboy\Source\Repos\MojeProjekty\CryptoStats\CryptoStats\obj\Debug\CryptoStats.exe
+C:\Users\r00tboy\Source\Repos\MojeProjekty\CryptoStats\CryptoStats\obj\Debug\CryptoStats.pdb
+C:\Users\r00tboy\Source\Repos\MojeProjekty\CryptoStats\CryptoStats\bin\Debug\CryptoStats.exe.config
+C:\Users\r00tboy\Source\Repos\MojeProjekty\CryptoStats\CryptoStats\bin\Debug\CryptoStats.exe
+C:\Users\r00tboy\Source\Repos\MojeProjekty\CryptoStats\CryptoStats\bin\Debug\CryptoStats.pdb
+C:\Users\r00tboy\Source\Repos\MojeProjekty\CryptoStats\CryptoStats\bin\Debug\Newtonsoft.Json.dll
+C:\Users\r00tboy\Source\Repos\MojeProjekty\CryptoStats\CryptoStats\bin\Debug\Newtonsoft.Json.xml
